@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TicTacToeExample.CSharp", "UnityVS.TicTacToeExample.CSharp.csproj", "{3D28B4B9-178A-6775-249F-1288C9A9977C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TicTacToeExample.CSharp.Editor", "UnityVS.TicTacToeExample.CSharp.Editor.csproj", "{0D4BDC3F-A564-3FA4-220C-C1863DC55669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D28B4B9-178A-6775-249F-1288C9A9977C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D28B4B9-178A-6775-249F-1288C9A9977C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D28B4B9-178A-6775-249F-1288C9A9977C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D28B4B9-178A-6775-249F-1288C9A9977C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D4BDC3F-A564-3FA4-220C-C1863DC55669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4BDC3F-A564-3FA4-220C-C1863DC55669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4BDC3F-A564-3FA4-220C-C1863DC55669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4BDC3F-A564-3FA4-220C-C1863DC55669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
